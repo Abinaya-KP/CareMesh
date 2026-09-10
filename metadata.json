@@ -1,0 +1,10 @@
+{
+  "name": "CareMesh AI",
+  "description": "AI-powered healthcare supply-chain resilience and self-healing redistribution platform for India.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
